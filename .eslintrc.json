@@ -1,0 +1,13 @@
+{
+  "extends": "next/core-web-vitals",
+  "rules": {
+    "eqeqeq": "error",
+    "no-extra-semi": "error",
+    "no-extra-boolean-cast": "error",
+    "no-var": "error",
+    "no-unused-expressions": "error",
+    "no-duplicate-imports": "error",
+    "prefer-const": "error",
+    "camelcase": "warn"
+  }
+}
